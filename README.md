@@ -3,7 +3,7 @@ Here is Android P features
 
 https://android-developers.googleblog.com/2018/05/whats-new-in-android-p-beta.html
 
-•	Android X 
+•	Android X \n
 •	Work Managers 
 •	Actions :- https://developer.android.com/guide/actions/
 •	 Support Lib v 28
