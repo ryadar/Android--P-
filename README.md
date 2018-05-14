@@ -43,11 +43,11 @@ https://android-developers.googleblog.com/2018/05/whats-new-in-android-p-beta.ht
 
 •	Security:-
 
-o	 Biometric prompt
+      o Biometric prompt
 
-o	Protected Confirmation
+      o	Protected Confirmation
 
-o	Stronger protection for private keys
+      o	Stronger protection for private keys
 
 •	Android P beta
 
@@ -56,6 +56,29 @@ o	Stronger protection for private keys
 •	Compatibility through public APIs
 
 •	Test with display cutout
+
+•	Android Studio Canary 3.2 
+
+    o	Navigation Editor 
+    
+    o	Android X Refactoring Support
+    
+    o	Sample Data
+    
+    o	Material Design Update
+    
+    o	Slices Support
+    
+    o	CMakeList Editor Support for C/C++ Code
+    
+    o	Whats New Assistnat:- Assisstent Panel
+    
+   o	Build
+   
+      	Android App Bundle
+
+
+  
 
 
 
